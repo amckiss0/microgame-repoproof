@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plason
+* source:	https://sketchfab.com/3d-models/plason-7776ff219160417a991d6172cfb28f4f
+* author:	amckiss0 (https://sketchfab.com/amckiss0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plason" (https://sketchfab.com/3d-models/plason-7776ff219160417a991d6172cfb28f4f) by amckiss0 (https://sketchfab.com/amckiss0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
